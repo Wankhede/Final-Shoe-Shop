@@ -23,3 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+build/
+.dart_tool/
+.packages
+.idea/
+*.iml
+
+build/
